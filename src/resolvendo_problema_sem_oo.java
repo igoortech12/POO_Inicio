@@ -48,4 +48,4 @@ public class resolvendo_problema_sem_oo {
 		sc.close();
 	}
 
-}
+} //CHAVE FECHAMENTO DA CLASSE
